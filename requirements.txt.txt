@@ -1,0 +1,5 @@
+#Requirements
+
+-currency converter: Essential to be able to switch currencies and calculate the loan in GBP
+
+-Tabulate: Required to create the table displaying the months, monthly payments, principal repaid, interest, and payment this month
