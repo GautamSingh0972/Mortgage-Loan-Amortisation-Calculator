@@ -1,3 +1,6 @@
+The project is available as a dasboard.
+![dasboard](./dashboard.png)
+
 Description:
 Mortgage & Loan Amortisation Calculator is a Python program that calculates monthly loan payments and generates an amortisation schedule based on a user's loan amount, annual interest rate, loan term, and optional overpayments.
 Most people may know what their monthly payments are, but not how much of it is actually going towards the loan and how much is interest. If you were to take out a loan of 200,000 at an annual rate of 5% over 25 years, in month one you are charged with £833.33 in interest and only £335.85 that really goes to the original amount, which allows users to visualise how much money they are really to get a grasp on what loans would benefit them more in the long term. It also allows users to see what it would be like if they added some overpayments. For example, if I continue off my previous statement, and the customer decides to put another £200 of overpayment into the mix, the total number of months is cut by 74 months, reducing it to only 226 months instead of the full 300, showing the user how effective an overpayment would be and by how much the loan can be cut short, allowing them to create budgets and forecasts for the future.
